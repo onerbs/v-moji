@@ -2,7 +2,7 @@ module moji
 
 // https://api.github.com/emojis
 
-pub const db = map{
+pub const db = {
 	':+1:': [byte(240),159,145,141]
 	':-1:': [byte(240),159,145,142]
 	':100:': [byte(240),159,146,175]
